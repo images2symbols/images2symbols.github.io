@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: images2symbols # the website title (if blank, full name will be used instead)
-first_name: images2symbols Workshop
-# middle_name: 
-# last_name: 
+title: images2symbols Workshop # the website title (if blank, full name will be used instead)
+# first_name: First
+# middle_name: M
+# last_name: Last
 email: images2symbols@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Synthesizing new ideas from neuroscience, developmental science, and machine learning to better undertand graphical production and comprehension.
