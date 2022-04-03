@@ -1,8 +1,9 @@
 ---
-layout: about
-title: about
+layout: home
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Synthesizing ideas from neuroscience, developmental science, and machine learning to better undertand graphical production and comprehension.
+
 
 profile:
   align: right
