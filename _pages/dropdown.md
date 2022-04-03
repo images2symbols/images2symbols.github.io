@@ -4,9 +4,9 @@ title: submenus
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: pre-conference talks
+      permalink: /preconf/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: CogSci 2022
+      permalink: /conf/
 ---
