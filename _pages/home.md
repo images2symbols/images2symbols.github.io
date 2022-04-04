@@ -76,10 +76,10 @@ Cool Description of the website
 -------- 
 #### Organizers
 
-Kushin Mukherjee
-Holly Huey
-Timothy T. Rogers
-Judy Fan
+Kushin Mukherjee <a style="font-size:15px">(University of Wisconsin-Madison)</a> \
+Holly Huey <a style="font-size:15px">(University of California, San Diego)</a> \
+Timothy T. Rogers  <a style="font-size:15px">(University of Wisconsin-Madison)</a> \
+Judy Fan (<a style="font-size:15px">University of California, San Diego)</a>
 
 
 
