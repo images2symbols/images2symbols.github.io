@@ -73,8 +73,13 @@ Cool Description of the website
     <td style="text-align:center"><a href="https://web.mit.edu/zyzzyva/www/academic.html">Cathy Wong</a> <br> Speaker </td>
  </tr>
 </table>
+-------- 
+#### Organizers
 
-
+Kushin Mukherjee
+Holly Huey
+Timothy T. Rogers
+Judy Fan
 
 
 
