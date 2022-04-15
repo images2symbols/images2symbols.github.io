@@ -2,7 +2,7 @@
 layout: home
 title: home
 permalink: /
-subtitle: Synthesizing research from neuroscience, developmental science, and machine learning to better undertand graphical production and comprehension.
+subtitle: Synthesizing research from neuroscience, developmental science, and machine learning to better understand graphical production and comprehension.
 
 
 # profile:
@@ -12,9 +12,9 @@ subtitle: Synthesizing research from neuroscience, developmental science, and ma
 #     <p>123 your address street</p>
 #     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 Drawing is a powerful cognitive technology for creating external representations of thought. 
 While drawings have long provided inspiration to researchers in many areas of cognitive science, including psychology, artificial intelligence, and neuroscience, these communities have not generally had opportunities to interact and share insights. 
@@ -89,10 +89,6 @@ Recorded seminar video: <a href="add_link">TBD</a>
 <a href="https://kushinm.github.io/">Kushin Mukherjee</a><a style="font-size:15px">(University of Wisconsin-Madison)</a> \
 <a href="https://hollyhuey.github.io/">Holly Huey</a> <a style="font-size:15px">(University of California, San Diego)</a> \
 <a href="https://psych.wisc.edu/Rogers/">Timothy T. Rogers</a>  <a style="font-size:15px">(University of Wisconsin-Madison)</a> \
-<a href="https://cogtoolslab.github.io/">Judy Fan</a> <a style="font-size:15px">(University of California, San Diego)</a>
+<a href="https://cogtoolslab.github.io/people.html">Judy Fan</a> <a style="font-size:15px">(University of California, San Diego)</a>
 
-
-
-
-
-
+Feel free to contact the organizers at: <a href="images2symbols@gmail.com">images2symbols@gmail.com</a>
