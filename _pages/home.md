@@ -19,15 +19,17 @@ social: true  # includes social icons at the bottom of the page
 Drawing is a powerful cognitive technology for creating external representations of thought. 
 While drawings have long provided inspiration to researchers in many areas of cognitive science, including psychology, artificial intelligence, and neuroscience, these communities have not generally had opportunities to interact and share insights. 
 
-The goal of this workshop is to bring together perspectives from multiple disciplines to explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration. 
+This workshop brings together perspectives from multiple disciplines to explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration. Join us for a series of 3 virtual seminars in-advance of <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci Conference 2022</a> and for a poster session and discussion in-person in Toronto during the conference! 
 
-You can view the full workshop description <a href="add_paper_here">here</a>. 
+You can view the full workshop description <a href="add_link">here</a>. 
 
 ### Virtual Seminars
-We are introducing a novel ``flipped'' format wherein we will hold three virtual seminars in the weeks leading up to <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci 2022</a>, each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.
+Introducing a new "flipped" format. 3 virtual seminars in-advance of the <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci Conference 2022</a>. Each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.
 
-#### Neuroscience
+#### Neuroscience (TBD, 2022)
+Zoom link: <a href="add_link">link</a>
 
+Recorded seminar video: <a href="add_link">TBD</a>
 
 <table style="width:85%;border-bottom: 1px solid white;">
    <tr>
@@ -44,7 +46,10 @@ We are introducing a novel ``flipped'' format wherein we will hold three virtual
 
 <br/>
 
-#### Developmental Science
+#### Developmental Science (TBD, 2022)
+Zoom link: <a href="add_paper_here">link</a>
+
+Recorded seminar video: <a href="add_link">TBD</a>
 
 <table style="width:85%;border-bottom: 1px solid white;">
    <tr>
@@ -61,7 +66,10 @@ We are introducing a novel ``flipped'' format wherein we will hold three virtual
 
 <br/>
 
-#### Machine Learning
+#### Machine Learning (TBD, 2022)
+Zoom link: <a href="add_paper_here">link</a>
+
+Recorded seminar video: <a href="add_link">TBD</a>
 
 <table style="width:85%;border-bottom: 1px solid white;">
      <tr>

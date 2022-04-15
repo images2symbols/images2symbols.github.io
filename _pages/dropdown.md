@@ -2,11 +2,11 @@
 layout: page
 title: submenus
 nav: true
-dropdown: true
+dropdown: false
 children: 
-    - title: pre-conference talks
-      permalink: /preconf/
-    - title: divider
-    - title: CogSci 2022
+    # - title: pre-conference talks
+    #   permalink: /preconf/
+    # - title: divider
+    - title: CogSci Conference 2022
       permalink: /conf/
 ---
