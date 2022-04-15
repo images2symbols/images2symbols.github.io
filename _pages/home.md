@@ -18,12 +18,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 Drawing is a powerful cognitive technology for creating external representations of thought. 
 While drawings have long provided inspiration to researchers in many areas of cognitive science, including psychology, artificial intelligence, and neuroscience, these communities have not generally had opportunities to interact and share insights. 
+
 The goal of this workshop is to bring together perspectives from multiple disciplines to explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration. 
-We are introducing a novel ``flipped'' format wherein we will hold three virtual seminars in the weeks leading up to CogSci 2022, each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.
-Holding these thematic seminars in advance will enable us to attract a broader audience for our event and focus on promoting informal interaction among workshop attendees at the on-site event.
 
+We are introducing a novel ``flipped'' format wherein we will hold three virtual seminars in the weeks leading up to <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci 2022</a>, each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.
 
-
+You can view the full workshop description <a href="add_paper_here">here</a>. 
 
 ### Virtual Seminars
 
