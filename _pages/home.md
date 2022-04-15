@@ -28,7 +28,6 @@ Introducing a new "flipped" format. 3 virtual seminars in-advance of the <a href
 
 #### Neuroscience (TBD, 2022)
 Zoom link: <a href="add_link">link</a>
-
 Recorded seminar video: <a href="add_link">TBD</a>
 
 <table style="width:85%;border-bottom: 1px solid white;">
@@ -48,7 +47,6 @@ Recorded seminar video: <a href="add_link">TBD</a>
 
 #### Developmental Science (TBD, 2022)
 Zoom link: <a href="add_paper_here">link</a>
-
 Recorded seminar video: <a href="add_link">TBD</a>
 
 <table style="width:85%;border-bottom: 1px solid white;">
@@ -68,7 +66,6 @@ Recorded seminar video: <a href="add_link">TBD</a>
 
 #### Machine Learning (TBD, 2022)
 Zoom link: <a href="add_paper_here">link</a>
-
 Recorded seminar video: <a href="add_link">TBD</a>
 
 <table style="width:85%;border-bottom: 1px solid white;">
