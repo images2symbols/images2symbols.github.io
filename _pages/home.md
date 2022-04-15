@@ -2,8 +2,7 @@
 layout: home
 title: home
 permalink: /
-subtitle: Synthesizing research from neuroscience, developmental science, and machine learning to better understand graphical production and comprehension.
-
+subtitle: 
 
 # profile:
 #   align: right
@@ -19,12 +18,15 @@ social: false  # includes social icons at the bottom of the page
 Drawing is a powerful cognitive technology for creating external representations of thought. 
 While drawings have long provided inspiration to researchers in many areas of cognitive science, including psychology, artificial intelligence, and neuroscience, these communities have not generally had opportunities to interact and share insights. 
 
-This workshop brings together perspectives from multiple disciplines to explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration. Join us for a series of 3 virtual seminars in-advance of <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci Conference 2022</a> and for a poster session and discussion in-person in Toronto during the conference! 
+This workshop brings together perspectives from multiple disciplines to explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration. 
+Here we introduce a novel "flipped" workshop format.
+Join us for 3 virtual seminars in-advance of the <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci Conference 2022</a>, each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively. 
+At the conference, we will host poster session and discussion in-person in Toronto during the conference.
 
 You can view the full workshop description <a href="add_link">here</a>. 
 
 ### Virtual Seminars
-Introducing a new "flipped" format. 3 virtual seminars in-advance of the <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci Conference 2022</a>. Each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.
+Synthesizing research from neuroscience, developmental science, and machine learning to better understand graphical production and comprehension...
 
 #### Neuroscience (TBD, 2022)
 Zoom link: <a href="add_link">link</a>
