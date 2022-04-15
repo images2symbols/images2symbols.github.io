@@ -2,7 +2,7 @@
 layout: home
 title: home
 permalink: /
-subtitle: Synthesizing new ideas from neuroscience, developmental science, and machine learning to better undertand graphical production and comprehension.
+subtitle: Synthesizing research from neuroscience, developmental science, and machine learning to better undertand graphical production and comprehension.
 
 
 # profile:
@@ -21,12 +21,10 @@ While drawings have long provided inspiration to researchers in many areas of co
 
 The goal of this workshop is to bring together perspectives from multiple disciplines to explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration. 
 
-We are introducing a novel ``flipped'' format wherein we will hold three virtual seminars in the weeks leading up to <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci 2022</a>, each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.
-
 You can view the full workshop description <a href="add_paper_here">here</a>. 
 
 ### Virtual Seminars
-
+We are introducing a novel ``flipped'' format wherein we will hold three virtual seminars in the weeks leading up to <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci 2022</a>, each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.
 
 #### Neuroscience
 
@@ -55,7 +53,7 @@ You can view the full workshop description <a href="add_paper_here">here</a>.
     <td style="text-align:center"><img src="https://images.squarespace-cdn.com/content/v1/56acc1138a65e2a286012c54/1485101818909-591YAC62MS6FYIC7K447/image-asset.jpeg" height="175"></td>
   </tr> 
   <tr>
-    <td style="text-align:center"><a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html">Molly Dillon</a> <strong>(Chair)</strong><br> New York University</td>
+    <td style="text-align:center"><a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html">Moira Dillon</a> <strong>(Chair)</strong><br> New York University</td>
     <td style="text-align:center"><a href="https://www.brialong.com/">Bria Long</a> <strong>(Speaker)</strong><br> Stanford University</td>
     <td style="text-align:center"><a href="https://people.coe.uga.edu/logan-fiorella/">Logan Fiorella </a><strong>(Speaker)</strong><br> University of Georgia</td>
  </tr>
@@ -80,10 +78,10 @@ You can view the full workshop description <a href="add_paper_here">here</a>.
 -------- 
 #### Organizers
 
-Kushin Mukherjee <a style="font-size:15px">(University of Wisconsin-Madison)</a> \
-Holly Huey <a style="font-size:15px">(University of California, San Diego)</a> \
-Timothy T. Rogers  <a style="font-size:15px">(University of Wisconsin-Madison)</a> \
-Judy Fan (<a style="font-size:15px">University of California, San Diego)</a>
+<a href="https://kushinm.github.io/">Kushin Mukherjee</a><a style="font-size:15px">(University of Wisconsin-Madison)</a> \
+<a href="https://hollyhuey.github.io/">Holly Huey</a> <a style="font-size:15px">(University of California, San Diego)</a> \
+<a href="https://psych.wisc.edu/Rogers/">Timothy T. Rogers</a>  <a style="font-size:15px">(University of Wisconsin-Madison)</a> \
+<a href="https://cogtoolslab.github.io/">Judy Fan</a> <a style="font-size:15px">(University of California, San Diego)</a>
 
 
 
