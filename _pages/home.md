@@ -2,8 +2,7 @@
 layout: home
 title: home
 permalink: /
-subtitle: Synthesizing new ideas from neuroscience, developmental science, and machine learning to better undertand graphical production and comprehension.
-
+subtitle: 
 
 # profile:
 #   align: right
@@ -12,20 +11,26 @@ subtitle: Synthesizing new ideas from neuroscience, developmental science, and m
 #     <p>123 your address street</p>
 #     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
-Cool Description of the website
+Drawing is a powerful cognitive technology for creating external representations of thought. 
+While drawings have long provided inspiration to researchers in many areas of cognitive science, including psychology, artificial intelligence, and neuroscience, these communities have not generally had opportunities to interact and share insights. 
 
+This workshop brings together perspectives from multiple disciplines to explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration. 
+Here we introduce a novel "flipped" workshop format.
+Join us for 3 virtual seminars in-advance of the <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci Conference 2022</a>, each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively. 
+At the conference, we will host poster session and discussion in-person in Toronto during the conference.
 
-
+You can view the full workshop description <a href="add_link">here</a>. 
 
 ### Virtual Seminars
+Synthesizing research from neuroscience, developmental science, and machine learning to better understand graphical production and comprehension...
 
-
-#### Neuroscience
-
+#### Neuroscience (TBD, 2022)
+Zoom link: <a href="add_link">link</a>
+Recorded seminar video: <a href="add_link">TBD</a>
 
 <table style="width:85%;border-bottom: 1px solid white;">
    <tr>
@@ -42,7 +47,9 @@ Cool Description of the website
 
 <br/>
 
-#### Developmental Science
+#### Developmental Science (TBD, 2022)
+Zoom link: <a href="add_paper_here">link</a>
+Recorded seminar video: <a href="add_link">TBD</a>
 
 <table style="width:85%;border-bottom: 1px solid white;">
    <tr>
@@ -51,7 +58,7 @@ Cool Description of the website
     <td style="text-align:center"><img src="https://images.squarespace-cdn.com/content/v1/56acc1138a65e2a286012c54/1485101818909-591YAC62MS6FYIC7K447/image-asset.jpeg" height="175"></td>
   </tr> 
   <tr>
-    <td style="text-align:center"><a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html">Molly Dillon</a> <strong>(Chair)</strong><br> New York University</td>
+    <td style="text-align:center"><a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html">Moira Dillon</a> <strong>(Chair)</strong><br> New York University</td>
     <td style="text-align:center"><a href="https://www.brialong.com/">Bria Long</a> <strong>(Speaker)</strong><br> Stanford University</td>
     <td style="text-align:center"><a href="https://people.coe.uga.edu/logan-fiorella/">Logan Fiorella </a><strong>(Speaker)</strong><br> University of Georgia</td>
  </tr>
@@ -59,7 +66,9 @@ Cool Description of the website
 
 <br/>
 
-#### Machine Learning
+#### Machine Learning (TBD, 2022)
+Zoom link: <a href="add_paper_here">link</a>
+Recorded seminar video: <a href="add_link">TBD</a>
 
 <table style="width:85%;border-bottom: 1px solid white;">
      <tr>
@@ -76,13 +85,9 @@ Cool Description of the website
 -------- 
 #### Organizers
 
-Kushin Mukherjee <a style="font-size:15px">(University of Wisconsin-Madison)</a> \
-Holly Huey <a style="font-size:15px">(University of California, San Diego)</a> \
-Timothy T. Rogers  <a style="font-size:15px">(University of Wisconsin-Madison)</a> \
-Judy Fan (<a style="font-size:15px">University of California, San Diego)</a>
+<a href="https://kushinm.github.io/">Kushin Mukherjee</a><a style="font-size:15px">(University of Wisconsin-Madison)</a> \
+<a href="https://hollyhuey.github.io/">Holly Huey</a> <a style="font-size:15px">(University of California, San Diego)</a> \
+<a href="https://psych.wisc.edu/Rogers/">Timothy T. Rogers</a>  <a style="font-size:15px">(University of Wisconsin-Madison)</a> \
+<a href="https://cogtoolslab.github.io/people.html">Judy Fan</a> <a style="font-size:15px">(University of California, San Diego)</a>
 
-
-
-
-
-
+Feel free to contact the organizers at: <a href="images2symbols@gmail.com">images2symbols@gmail.com</a>
