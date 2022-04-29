@@ -64,7 +64,7 @@ Cool Description of the website
 <table style="width:85%;border-bottom: 1px solid white;">
      <tr>
     <td style="text-align:center"><img src="http://eyeofestival.com/wp-content/uploads/2017/12/DavidHa.png" height="175"></td>
-    <td style="text-align:center"><img src="https://pbs.twimg.com/profile_images/1466376522391035908/kD7ov90A_400x400.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://yulia.gryaditskaya.com/Me_new.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png" height="175"></td>
   </tr> 
   <tr>
