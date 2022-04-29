@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CogSci Conference 2022
+title: Schedule
 nav: true
 dropdown: false
-permalink: /conf/
+permalink: /schedule/
 # children: 
 #     # - title: pre-conference talks
 #     #   permalink: /preconf/
