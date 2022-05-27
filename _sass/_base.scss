@@ -12,6 +12,10 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+body{
+  overflow-x:hidden;
+}
+
 table {
     td, th {
       color: var(--global-text-color);
@@ -595,3 +599,4 @@ html.transition *:after {
   font-size: 0.875rem;
   padding-top: 0.25rem;
 }
+

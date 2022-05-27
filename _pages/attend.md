@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Submit
+title: attend
 nav: true
 dropdown: false
-permalink: /abstracts/
+permalink: /seminar/
 ---
