@@ -17,4 +17,4 @@ Two of these submissions will be recognized with $200 “Early Career Researcher
 One of these submissions will be recognized with a $200 “Best Poster Award” as judged by an expert panel on workshop day. 
 
 Deadline to submit: July 1, 2022 AOE
-Link to submission page: https://forms.gle/8rxdnyvcdea9y7uC9  
+Link to submission page: <a href = "https://forms.gle/8rxdnyvcdea9y7uC9">https://forms.gle/8rxdnyvcdea9y7uC9 </a>  
