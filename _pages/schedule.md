@@ -28,7 +28,7 @@ permalink: /schedule_1/
             <div class="content">
 
 
-                <div class = "cellinfo" style="width:45%; float:left;">
+                <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
                 <h1>machine learning seminar (Zoom)</h1>
                 <br>
@@ -40,7 +40,7 @@ permalink: /schedule_1/
                 </div>
 
               
-                <div class = "cellims" style="width:45%;float:right">
+                <div class = "cellims" style="width:45%;float:right; position:relative;overflow:auto">
 
                 <h2>speakers</h2>
 
@@ -85,7 +85,7 @@ permalink: /schedule_1/
             <div class="bead"> </div>
             <div class="content">
 
-             <div class = "cellinfo" style="width:45%; float:right;">
+             <div class = "cellinfo" style="width:45%; float:right;overflow:auto">
 
                 <h1>neuroscience seminar (Zoom)</h1>
                 <br>
@@ -97,7 +97,7 @@ permalink: /schedule_1/
                 </div>
 
               
-                <div class = "cellims" style="width:45%;float:left">
+                <div class = "cellims" style="width:45%;float:left;overflow:auto">
 
                 <h2>speakers</h2>
 
@@ -138,7 +138,7 @@ permalink: /schedule_1/
 
 
 
-            <div class = "cellinfo" style="width:45%; float:left;">
+            <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
                 <h1> developmental science seminar  (Zoom)</h1>
                 <br>
@@ -150,7 +150,7 @@ permalink: /schedule_1/
                 </div>
 
               
-                <div class = "cellims" style="width:45%;float:right">
+                <div class = "cellims" style="width:45%;float:right;overflow:auto">
 
                 <h2>speakers</h2>
 
