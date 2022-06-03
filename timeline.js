@@ -1,5 +1,4 @@
- 
-     "use strict";
+"use strict";
 
 function qs(selector, all = false) {
   return all ? document.querySelectorAll(selector) : document.querySelector(selector);

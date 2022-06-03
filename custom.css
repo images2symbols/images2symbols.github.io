@@ -8,6 +8,38 @@
     color:black;
     /* background-image: linear-gradient(315deg, aqua 0%, purple 74%);
 }*/
+#container-header {
+  height: 100px;
+}
+
+#typing-header {
+  margin-top: 10px;
+}
+
+#typing-text {
+  color: #09AD94;
+}
+
+a: link {
+  color: green !important;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.circle-headshot {
+  border: 2px solid gray;
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+  border-radius: 50%;
+}
+
+#landing_image {
+  border: 2px solid blue;
+  width: 100%;
+  height: 100%;
+}
+
 /* SCHEDULE */
 .container_tl {
   padding: 2rem;
