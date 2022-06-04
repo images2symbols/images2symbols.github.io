@@ -58,7 +58,7 @@ permalink: /schedule/
 
 
 
-        
+
         <div class="section">
             <div class="bead"> </div>
             <div class="content">
@@ -123,7 +123,7 @@ permalink: /schedule/
             <div class="bead"> </div>
             <div class="content">
 
-             <div class = "cellinfo" style="width:45%; float:right;overflow:auto">
+             <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
                 <h1>neuroscience seminar</h1>
                 <br>
@@ -135,7 +135,7 @@ permalink: /schedule/
                 </div>
 
 
-                <div class = "cellims" style="width:45%;float:left;overflow:auto">
+                <div class = "cellims" style="width:45%;float:right;overflow:auto">
 
                 <h2>speakers</h2>
 
