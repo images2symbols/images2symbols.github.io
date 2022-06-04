@@ -1,6 +1,6 @@
 window.onload = function() {
   new Typed('#typing-text', {
-    strings: ["communicating knowledge", "promoting learning", "discovering ideas"],
+    strings: ["promoting learning", "communicating knowledge", "discovering ideas"],
     typeSpeed: 50,
     // startDelay: 100,
     backDelay: 2000,

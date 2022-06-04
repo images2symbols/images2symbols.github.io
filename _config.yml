@@ -2,13 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+<<<<<<< HEAD
 title: images2symbols @cogsci22 # the website title (if blank, full name will be used instead)
+=======
+title: images2symbols @ CogSci'22 # the website title (if blank, full name will be used instead)
+>>>>>>> 76c89f30578f2cbfb8717671f33c1fd8fa38db5c
 # first_name: First
 # middle_name: M
 # last_name: Last
 email: images2symbols@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Synthesizing new ideas from neuroscience, developmental science, and machine learning to better undertand graphical production and comprehension.
+  Integrating ideas from neuroscience, developmental science, and machine learning to understand visual production and comprehension.
 footer_text: >
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

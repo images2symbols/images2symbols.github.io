@@ -31,9 +31,6 @@ permalink: /schedule_1/
                 <h5>Date: 10AM-11:30AM PT on Monday, July 11, 2022.</h5>
                 <p>Join on zoom: link coming soon...</p>
 
-                <div style="width: 100%">
-                <ul>
-
                 <div style="float: left; margin: 10px">
                 <a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html">
                   <img src="https://as.nyu.edu/content/dam/nyu-as/faculty/images/MoiraDillon.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
