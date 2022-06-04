@@ -168,6 +168,7 @@ permalink: /schedule_1/
     </div>
 </div>
 </div>
+</div>
 
 
 <script src="{{ site.baseurl | prepend: site.url }}/timeline.js">

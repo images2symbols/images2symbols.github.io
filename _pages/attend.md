@@ -7,11 +7,7 @@ permalink: /seminar/
 ---
 
 <div style="text-align: center;">
-<<<<<<< HEAD
-<p><h3>Attend our workshop in two ways:</h3></p>
-=======
 <p><h3>There are two ways to attend:</h3></p>
->>>>>>> 76c89f30578f2cbfb8717671f33c1fd8fa38db5c
 </div>
 
 <br>
@@ -29,11 +25,8 @@ permalink: /seminar/
 <br>
 
 <div>
-<<<<<<< HEAD
+
 <p><h5><b>At CogSci (Toronto)</b></h5></p>
-=======
-<p><h5><b>At CogSci (In Person)</b></h5></p>
->>>>>>> 76c89f30578f2cbfb8717671f33c1fd8fa38db5c
 </div>
 
 <div>
