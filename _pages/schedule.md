@@ -33,7 +33,7 @@ permalink: /schedule/
                 <h1>artificial intelligence seminar</h1>
                 <br>
                 <br>
-                <p>Date: TBD</p>
+                <p>Date: 7:30AM-9AM PT on Tuesday, July 12 PT</p>
                 <p>Zoom info: TBD</p>
 
                 </div>
@@ -91,7 +91,7 @@ permalink: /schedule/
                 <h1>neuroscience seminar</h1>
                 <br>
                 <br>
-                <p>Date: TBD</p>
+                <p>Date: 12PM-1:30PM PT on Wednesday, July 13 PT</p>
                 <p>Zoom info: TBD</p>
 
                 </div>
@@ -143,7 +143,7 @@ permalink: /schedule/
                 <h1> developmental science seminar</h1>
                 <br>
                 <br>
-                <p>Date: TBD</p>
+                <p>Date: 10AM-11:30AM PT on Monday, July 11 PT</p>
                 <p>Zoom info: TBD</p>
 
                 </div>
