@@ -47,7 +47,7 @@ At the <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci Confere
 <li><b>At the conference</b>, join us for an in-person poster session, panel discussion, and other opportunities to informally interact with other researchers.</li></ul></p>
 
 <p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.
-See the schedule of virtual seminars here.  <a href = "https://images2symbols.github.io/schedule_1/">here</a>.
+See the schedule of virtual seminars <a href = "https://images2symbols.github.io/schedule_1/">here</a>.
 </p>
 
 <!-- <div style="text-align: center;">
