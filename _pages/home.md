@@ -57,7 +57,7 @@ See the schedule of speakers for our 3 virtual seminars <a href = "https://image
 </div> -->
 
 <div>
-Feel free to contact the organizers at: <a href="images2symbols@gmail.com">images2symbols@gmail.com</a>
+Feel free to contact the organizers at: <a href="images2symbols@gmail.com">images2symbols@gmail.com</a>.
 </div>
 
 <div style="width: 100%">
