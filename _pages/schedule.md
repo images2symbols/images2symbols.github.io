@@ -23,6 +23,42 @@ permalink: /schedule/
 
     <div class="tl">
         <div class="line"></div>
+
+
+        <div class="section">
+            <div class="bead"> </div>
+            <div class="content">
+            <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
+                <h1> developmental science seminar</h1>
+                <br>
+                <br>
+                <p>Date: Monday, July 11</p>
+                <p>Time: 10AM-11:30AM PDT</p>                
+                <p>Zoom info: TBD</p>
+                </div>
+                <div class = "cellims" style="width:45%;float:right;overflow:auto">
+                <h2>speakers</h2>
+                <a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html" style="position:relative; display:block">Moira Dillon<strong> (Chair)</strong> </a>
+                NYU
+                <br>
+                <img src="https://as.nyu.edu/content/dam/nyu-as/faculty/images/MoiraDillon.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                <br>
+                 <a href="https://www.brialong.com/"  style="position:relative; display:block">Bria Long <strong> (Speaker) </strong></a> Stanford University
+                <img src="https://static.wixstatic.com/media/a22a3d_df9ff86d4dff4b428e08f450332aa4f2~mv2_d_2336_2827_s_2.jpg/v1/crop/x_134,y_164,w_2110,h_2107/fill/w_205,h_205,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/profile2.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                 <br>
+                <a href="https://people.coe.uga.edu/logan-fiorella/" style="position:relative; display:block">Logan Fiorella<strong> (Speaker)</strong> </a>  University of Georgia
+                <img src="../assets/custom_images/FiorellaL_photo.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+        
         <div class="section">
             <div class="bead"> </div>
             <div class="content">
@@ -134,52 +170,6 @@ permalink: /schedule/
 
 
 
-        <div class="section">
-            <div class="bead"> </div>
-            <div class="content">
-
-
-
-            <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-
-                <h1> developmental science seminar</h1>
-                <br>
-                <br>
-                <p>Date: Monday, July 11</p>
-                <p>Time: 10AM-11:30AM PDT</p>                
-                <p>Zoom info: TBD</p>
-
-                </div>
-
-
-                <div class = "cellims" style="width:45%;float:right;overflow:auto">
-
-                <h2>speakers</h2>
-
-                <a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html" style="position:relative; display:block">Moira Dillon<strong> (Chair)</strong> </a>
-                NYU
-                <br>
-                <img src="https://as.nyu.edu/content/dam/nyu-as/faculty/images/MoiraDillon.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-
-                <br>
-
-                 <a href="https://www.brialong.com/"  style="position:relative; display:block">Bria Long <strong> (Speaker) </strong></a> Stanford University
-                <img src="https://static.wixstatic.com/media/a22a3d_df9ff86d4dff4b428e08f450332aa4f2~mv2_d_2336_2827_s_2.jpg/v1/crop/x_134,y_164,w_2110,h_2107/fill/w_205,h_205,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/profile2.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-
-                 <br>
-
-
-
-
-                <a href="https://people.coe.uga.edu/logan-fiorella/" style="position:relative; display:block">Logan Fiorella<strong> (Speaker)</strong> </a>  University of Georgia
-                <img src="../assets/custom_images/FiorellaL_photo.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
-
-                </div>
-
-
-
-            </div>
-        </div>
 
 
 
