@@ -3,7 +3,7 @@ layout: page
 title: schedule
 nav: true
 dropdown: false
-permalink: /schedule/
+permalink: /schedule_1/
 # children:
 #     # - title: pre-conference talks
 #     #   permalink: /preconf/

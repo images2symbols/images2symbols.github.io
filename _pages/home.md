@@ -40,14 +40,14 @@ including psychology, artificial intelligence, and neuroscience,
 these communities have not generally had opportunities to interact and share insights.
 At the <a href="https://cognitivesciencesociety.org/cogsci-2022/">CogSci Conference 2022</a>, we bring these perspectives together.</p>
 
-<p>This workshop builds on multiple disciplines to explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration.<p>
-<p>Here we introduce a novel "flipped" workshop format:<p>
+<p>This workshop will explore the question of how humans use drawings to communicate knowledge, catalyzing new opportunities for multidisciplinary collaboration.<p>
+<p>We will be using a "flipped" workshop format:<p>
 <ul>
-<li><b>Before the conference</b>. Join us for 3 virtual seminars each highlighting insights from Machine Learning, Neuroscience, and Developmental Science, respectively.</li>
-<li><b>At the conference</b>. Join us for a poster session and discussion in-person in Toronto.</li></ul></p>
+<li><b>Before the conference</b>, join us for 3 virtual seminars each highlighting insights from Artificial Intelligence, Neuroscience, and Developmental Science.</li>
+<li><b>At the conference</b>, join us for an in-person poster session, panel discussion, and other opportunities to informally interact with other researchers.</li></ul></p>
 
 <p>View the full workshop description <a href="https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1270-cogsci22a-sub1270-i10.pdf">here</a>.
-See the schedule of speakers for our 3 virtual seminars <a href = "https://images2symbols.github.io/schedule_1/">here</a>.
+See the schedule of virtual seminars here.  <a href = "https://images2symbols.github.io/schedule_1/">here</a>.
 </p>
 
 <!-- <div style="text-align: center;">
