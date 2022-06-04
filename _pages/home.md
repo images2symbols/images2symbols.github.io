@@ -67,7 +67,7 @@ Feel free to contact the organizers at: <a href="images2symbols@gmail.com">image
 <a href="https://cogtoolslab.github.io/people.html">
   <img src="assets/custom_images/FanJE_photo.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
   </a>
-  <span style="display: block; padding: 5%; text-align: center;"><a href="https://cogtoolslab.github.io/people.html"><b>Judith Fan, UCSD</b></a></span>
+  <span style="display: block; padding: 5%; text-align: center;"><a href="https://cogtoolslab.github.io/people.html"><b>Judith Fan</b></a></span>
   <span style="display: block; margin-top: -10px; text-align: center;"><p>UCSD</p></span>
 </div>
 
