@@ -166,7 +166,7 @@ permalink: /schedule_1/
 
 
                 <a href="https://people.coe.uga.edu/logan-fiorella/" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">Logan Fiorella<strong> (Speaker)</strong> </a>  University of Georgia
-                <img src="https://images.squarespace-cdn.com/content/v1/56acc1138a65e2a286012c54/1485101818909-591YAC62MS6FYIC7K447/image-asset.jpeg" height="175" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                <img src="../assets/custom_images/FiorellaL_photo.jpg" height="175" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
 
                 </div>
 
