@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: images2symbols workshop # the website title (if blank, full name will be used instead)
+title: images2symbols @cogsci22 # the website title (if blank, full name will be used instead)
 # first_name: First
 # middle_name: M
 # last_name: Last
@@ -190,7 +190,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
   layouts:
     year: archive-year
     tag: archive-tag

@@ -17,189 +17,160 @@ permalink: /schedule_1/
 
 <div class="container_tl">
 
-    <!-- <div class="top">
-        <h1>Timeline</h1>
-    </div> -->
-
     <div class="tl">
         <div class="line"></div>
-        <div class="section">
-            <div class="bead"> </div>
-            <div class="content">
-
-
-                <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
-
-                <h1>machine learning seminar (Zoom)</h1>
-                <br>
-                <br>
-                <p>blurb(?)</p>
-                <p>Date: TBD</p>
-                <p>Zoom info: TBD</p>
-
-                </div>
-
-
-                <div class = "cellims" style="width:45%;float:right; position:relative;overflow:auto">
-
-                <h2>speakers</h2>
-
-                <a href="https://research.google/people/105004/" style="position:relative; display:block">David Ha <strong> (Chair)</strong> </a>
-                Google
-                <img src="http://eyeofestival.com/wp-content/uploads/2017/12/DavidHa.png" height="175" style= "position:relative;display:block">
-
-                <br>
-
-                 <a href="https://yulia.gryaditskaya.com/" style="position:relative; display:block">Yulia Gryaditskaya <strong> (Speaker) </strong> </a>
-                 University of Surrey
-                <img src="https://yulia.gryaditskaya.com/Me_new.jpg" height="175" style= "position:relative;display:block">
-
-                 <br>
-
-
-
-
-                <a href="https://web.mit.edu/zyzzyva/www/academic.html" style="position:relative; display:block">Cathy Wong<strong> (Speaker)</strong></a>
-                MIT
-                <img src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png" height="175" style= "position:relative; display:block">
-
-                </div>
-
-                 <br>
-                 <br>
-
-
-
-
-
-
-
-
-
-            </div>
-        </div>
-
 
 
         <div class="section">
             <div class="bead"> </div>
             <div class="content">
 
-             <div class = "cellinfo" style="width:45%; float:right;overflow:auto">
+                <div class = "cellims" style="width:100%; float:right; overflow:auto">
 
-                <h1>neuroscience seminar (Zoom)</h1>
-                <br>
-                <br>
-                <p>blurb(?)</p>
-                <p>Date: TBD</p>
-                <p>Zoom info: TBD</p>
+                <h2><b>Seminar 1: Developmental Science (Virtual)</b></h2>
+                <h5>Date: 10AM-11:30AM PT on Monday, July 11, 2022.</h5>
+                <p>Join on zoom: link coming soon...</p>
 
+                <div style="width: 100%">
+                <ul>
+
+                <div style="float: left; margin: 10px">
+                <a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html">
+                  <img src="https://as.nyu.edu/content/dam/nyu-as/faculty/images/MoiraDillon.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                  </a>
+                  <span style="display: block; padding: 5%; text-align: center;"><a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html"><b>Moira Dillon</b></a></span>
+                  <span style="display: block; margin-top: -10px; text-align: center;">Moderator, NYU</span>
                 </div>
 
-
-                <div class = "cellims" style="width:45%;float:left;overflow:auto">
-
-                <h2>speakers</h2>
-
-                <a href="https://brainbridgelab.uchicago.edu/people/" style="position:relative; display:block">Wilma Bainbridge<strong> (Chair)</strong>  </a>
-                University of Chicago
-                <img src="https://brainbridgelab.uchicago.edu/files/2019/04/bainbridgeheadshot-7.jpg" height="175" style= "position:relative;display:block">
-
-                <br>
-
-                 <a href="https://www.thelamplab.ca/lab-members"  style="position:relative; display:block">Jeffrey Wammes<strong> (Speaker)</strong></a>
-                Queen's University
-                <img src="https://pbs.twimg.com/profile_images/1177249919209369601/Othm4KHn_400x400.jpg" height="175" style= "position:relative; display:block">
-
-                 <br>
-
-
-
-
-                <a href="http://www.mrc-cbu.cam.ac.uk/people/Matt.Lambon-Ralph/" style="position:relative; display:block">Matt Lambon-Ralph<strong> (Speaker)</strong></a>
-                University of Cambridge
-                <img src="http://www.mrc-cbu.cam.ac.uk/wp-content/uploads/formidable/matt.lambon-ralph.png" height="175" style= "position:relative; display:block">
-
+                <div style="float: left; margin: 10px">
+                <a href="https://www.brialong.com/">
+                  <img src="https://static.wixstatic.com/media/a22a3d_df9ff86d4dff4b428e08f450332aa4f2~mv2_d_2336_2827_s_2.jpg/v1/crop/x_134,y_164,w_2110,h_2107/fill/w_205,h_205,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/profile2.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                  </a>
+                  <span style="display: block; padding: 5%; text-align: center;"><a href="https://www.brialong.com/"><b>Bria Long</b></a></span>
+                  <span style="display: block; margin-top: -10px; text-align: center;">Speaker, Stanford</span>
                 </div>
 
+                <div style="float: left; margin: 10px">
+                <a href="https://people.coe.uga.edu/logan-fiorella/">
+                  <img src="https://images.squarespace-cdn.com/content/v1/56acc1138a65e2a286012c54/1485101818909-591YAC62MS6FYIC7K447/image-asset.jpeg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                  </a>
+                  <span style="display: block; padding: 5%; text-align: center;"><a href="https://people.coe.uga.edu/logan-fiorella/"><b>Logan Fiorella</b></a></span>
+                  <span style="display: block; margin-top: -10px; text-align: center;">Speaker, UGeorgia</span>
+                </div>
+                </ul>
+                </div>
+                </div> <!-- close overflow  -->
 
-
-
-
-
+                <div>
+                <p>Talk titles and abstracts forthcoming...</p>
+                </div>
             </div>
         </div>
-
-
 
         <div class="section">
             <div class="bead"> </div>
             <div class="content">
 
+                <div class = "cellims" style="width:100%; float:right; overflow:auto">
 
+                <h2><b>Seminar 2: Artificial Intelligence (Virtual)</b></h2>
+                <h5>Date: 7:30AM-9AM PT on Tuesday, July 12</h5>
+                <p>Join on zoom: link coming soon...</p>
 
-            <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
+                <div style="width: 100%">
+                <ul>
 
-                <h1> developmental science seminar  (Zoom)</h1>
-                <br>
-                <br>
-                <p>blurb(?)</p>
-                <p>Date: TBD</p>
-                <p>Zoom info: TBD</p>
-
+                <div style="float: left; margin: 10px">
+                <a href="https://research.google/people/105004/">
+                  <img src="http://eyeofestival.com/wp-content/uploads/2017/12/DavidHa.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                  </a>
+                  <span style="display: block; padding: 5%; text-align: center;"><a href="https://research.google/people/105004/"><b>David Ha</b></a></span>
+                  <span style="display: block; margin-top: -10px; text-align: center;">Moderator, Google</span>
                 </div>
 
-
-                <div class = "cellims" style="width:45%;float:right;overflow:auto">
-
-                <h2>speakers</h2>
-
-                <a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html" style="position:relative; display:block">Moira Dillon<strong> (Chair)</strong> </a>
-                NYU
-                <img src="https://as.nyu.edu/content/dam/nyu-as/faculty/images/MoiraDillon.jpg" height="175" style= "position:relative;display:block">
-
-                <br>
-
-                 <a href="https://www.brialong.com/"  style="position:relative; display:block">Bria Long <strong> (Speaker) </strong></a> Stanford University
-                <img src="https://static.wixstatic.com/media/a22a3d_df9ff86d4dff4b428e08f450332aa4f2~mv2_d_2336_2827_s_2.jpg/v1/crop/x_134,y_164,w_2110,h_2107/fill/w_205,h_205,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/profile2.jpg" height="175" style= "position:relative;display:block">
-
-                 <br>
-
-
-
-
-                <a href="https://people.coe.uga.edu/logan-fiorella/" style="position:relative; display:block">Logan Fiorella<strong> (Speaker)</strong> </a>  University of Georgia
-                <img src="https://images.squarespace-cdn.com/content/v1/56acc1138a65e2a286012c54/1485101818909-591YAC62MS6FYIC7K447/image-asset.jpeg" height="175" style= "position:relative; display:block">
-
+                <div style="float: left; margin: 10px">
+                <a href="https://yulia.gryaditskaya.com/">
+                  <img src="https://yulia.gryaditskaya.com/Me_new.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                  </a>
+                  <span style="display: block; padding: 5%; text-align: center;"><a href="https://yulia.gryaditskaya.com/"><b>Yulia Gryaditskaya</b></a></span>
+                  <span style="display: block; margin-top: -10px; text-align: center;">Speaker, USurrey</span>
                 </div>
 
+                <div style="float: left; margin: 10px">
+                <a href="https://web.mit.edu/zyzzyva/www/academic.html">
+                  <img src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                  </a>
+                  <span style="display: block; padding: 5%; text-align: center;"><a href="https://web.mit.edu/zyzzyva/www/academic.html"><b>Cathy Wong</b></a></span>
+                  <span style="display: block; margin-top: -10px; text-align: center;">Speaker, MIT</span>
+                </div>
+                </ul>
+                </div>
+                </div> <!-- close overflow  -->
 
-
+                <div>
+                <p>Talk titles and abstracts forthcoming...</p>
+                </div>
             </div>
         </div>
 
-
-
-
-
-     <div class="section">
+        <div class="section">
             <div class="bead"> </div>
             <div class="content">
-            <h2> CogSci 2022</h2>
-            <p>Date: July 27th, 08:30 – 16:30 EDT</p>
-            <p>Toronto, Canada</p>
 
+                <div class = "cellims" style="width:100%; float:right; overflow:auto">
 
+                <h2><b>Seminar 3: Neuroscience (Virtual)</b></h2>
+                <h5>Date: 12PM-1:30PM PT on Wednesday, July 13</h5>
+                <p>Join on zoom: link coming soon...</p>
 
+                <div style="width: 100%">
+                <ul>
 
+                <div style="float: left; margin: 10px">
+                <a href="https://brainbridgelab.uchicago.edu/people/">
+                  <img src="https://brainbridgelab.uchicago.edu/files/2019/04/bainbridgeheadshot-7.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                  </a>
+                  <span style="display: block; padding: 5%; text-align: center;"><a href="https://brainbridgelab.uchicago.edu/people/"><b>Wilma Bainbridge</b></a></span>
+                  <span style="display: block; margin-top: -10px; text-align: center;">Moderator, UChicago</span>
                 </div>
 
+                <div style="float: left; margin: 10px">
+                <a href="https://www.thelamplab.ca/lab-members">
+                  <img src="https://pbs.twimg.com/profile_images/1177249919209369601/Othm4KHn_400x400.jpg" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                  </a>
+                  <span style="display: block; padding: 5%; text-align: center;"><a href="https://www.thelamplab.ca/lab-members"><b>Jeffrey Wammes</b></a></span>
+                  <span style="display: block; margin-top: -10px; text-align: center;">Speaker, Queen's University</span>
+                </div>
 
+                <div style="float: left; margin: 10px">
+                <a href="http://www.mrc-cbu.cam.ac.uk/people/Matt.Lambon-Ralph/">
+                  <img src="http://www.mrc-cbu.cam.ac.uk/wp-content/uploads/formidable/matt.lambon-ralph.png" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                  </a>
+                  <span style="display: block; padding: 5%; text-align: center;"><a href="http://www.mrc-cbu.cam.ac.uk/people/Matt.Lambon-Ralph/"><b>Matt Lambon-Ralph</b></a></span>
+                  <span style="display: block; margin-top: -10px; text-align: center;">Speaker, Cambridge</span>
+                </div>
+                </ul>
+                </div>
+                </div> <!-- close overflow  -->
 
+                <div>
+                <p>Talk titles and abstracts forthcoming...</p>
+                </div>
             </div>
         </div>
 
+<div class="section">
+    <div class="bead"> </div>
+    <div class="content">
 
+        <div class = "cellims" style="width:100%; float:right; overflow:auto">
 
+        <h2> CogSci 2022</h2>
+        <p>Date: July 27th, 08:30 – 16:30 EDT</p>
+        <p>Toronto, Canada</p>
     </div>
+</div>
+</div>
+
+
 <script src="{{ site.baseurl | prepend: site.url }}/timeline.js">

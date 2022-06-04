@@ -7,13 +7,13 @@ permalink: /seminar/
 ---
 
 <div style="text-align: center;">
-<p><h3>Our workshop will host two complementary components:</h3></p>
+<p><h3>Attend our workshop in two ways:</h3></p>
 </div>
 
 <br>
 
 <div>
-<p><h5><b>Before the conference</b></h5></p>
+<p><h5><b>Before CogSci (Virtual)</b></h5></p>
 </div>
 
 <div>
@@ -30,7 +30,7 @@ talks asynchronously.</p>
 <br>
 
 <div>
-<p><h5><b>At the conference in Toronto</b></h5></p>
+<p><h5><b>At CogSci (Toronto)</b></h5></p>
 </div>
 
 <div>
