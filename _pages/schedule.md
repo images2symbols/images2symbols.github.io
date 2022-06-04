@@ -45,13 +45,14 @@ permalink: /schedule_1/
 
                 <a href="https://research.google/people/105004/" style="position:relative; display:block">David Ha <strong> (Chair)</strong> </a>
                 Google
-                <img src="http://eyeofestival.com/wp-content/uploads/2017/12/DavidHa.png" height="175" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                <br>
+                <img src="http://eyeofestival.com/wp-content/uploads/2017/12/DavidHa.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 <br>
 
                  <a href="https://yulia.gryaditskaya.com/" style="position:relative; display:block">Yulia Gryaditskaya <strong> (Speaker) </strong> </a>
                  University of Surrey
-                <img src="https://yulia.gryaditskaya.com/Me_new.jpg" height="175" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                <img src="https://yulia.gryaditskaya.com/Me_new.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
@@ -60,7 +61,8 @@ permalink: /schedule_1/
 
                 <a href="https://web.mit.edu/zyzzyva/www/academic.html" style="position:relative; display:block">Cathy Wong<strong> (Speaker)</strong></a>
                 MIT
-                <img src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png" height="175" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                <br>
+                <img src="https://web.mit.edu/zyzzyva/www/images/CathyWong_profile.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 </div>
 
@@ -99,15 +101,15 @@ permalink: /schedule_1/
 
                 <h2>speakers</h2>
 
-                <a href="https://brainbridgelab.uchicago.edu/people/" style="position:relative; display:block">Wilma Bainbridge<strong> (Chair)</strong>  </a>
+                <a href="https://brainbridgelab.uchicago.edu/people/" style="position:relative; display:block">Wilma Bainbridge<strong> (Chair)</strong></a>
                 University of Chicago
-                <img src="https://brainbridgelab.uchicago.edu/files/2019/04/bainbridgeheadshot-7.jpg" height="175" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                <img src="https://brainbridgelab.uchicago.edu/files/2019/04/bainbridgeheadshot-7.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 <br>
 
                  <a href="https://www.thelamplab.ca/lab-members"  style="position:relative; display:block">Jeffrey Wammes<strong> (Speaker)</strong></a>
                 Queen's University
-                <img src="https://pbs.twimg.com/profile_images/1177249919209369601/Othm4KHn_400x400.jpg" height="175" style= "position:relative; display:block">
+                <img src="https://pbs.twimg.com/profile_images/1177249919209369601/Othm4KHn_400x400.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
@@ -116,7 +118,7 @@ permalink: /schedule_1/
 
                 <a href="http://www.mrc-cbu.cam.ac.uk/people/Matt.Lambon-Ralph/" style="position:relative; display:block">Matt Lambon-Ralph<strong> (Speaker)</strong></a>
                 University of Cambridge
-                <img src="http://www.mrc-cbu.cam.ac.uk/wp-content/uploads/formidable/matt.lambon-ralph.png" height="175" style= "position:relative; display:block">
+                <img src="http://www.mrc-cbu.cam.ac.uk/wp-content/uploads/formidable/matt.lambon-ralph.png" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 </div>
 
@@ -153,20 +155,21 @@ permalink: /schedule_1/
 
                 <a href="https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html" style="position:relative; display:block">Moira Dillon<strong> (Chair)</strong> </a>
                 NYU
-                <img src="https://as.nyu.edu/content/dam/nyu-as/faculty/images/MoiraDillon.jpg" height="175" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                <br>
+                <img src="https://as.nyu.edu/content/dam/nyu-as/faculty/images/MoiraDillon.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 <br>
 
                  <a href="https://www.brialong.com/"  style="position:relative; display:block">Bria Long <strong> (Speaker) </strong></a> Stanford University
-                <img src="https://static.wixstatic.com/media/a22a3d_df9ff86d4dff4b428e08f450332aa4f2~mv2_d_2336_2827_s_2.jpg/v1/crop/x_134,y_164,w_2110,h_2107/fill/w_205,h_205,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/profile2.jpg" height="175" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                <img src="https://static.wixstatic.com/media/a22a3d_df9ff86d4dff4b428e08f450332aa4f2~mv2_d_2336_2827_s_2.jpg/v1/crop/x_134,y_164,w_2110,h_2107/fill/w_205,h_205,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/profile2.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                  <br>
 
 
 
 
-                <a href="https://people.coe.uga.edu/logan-fiorella/" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">Logan Fiorella<strong> (Speaker)</strong> </a>  University of Georgia
-                <img src="../assets/custom_images/FiorellaL_photo.jpg" height="175" style="border: 2px solid gray; width: 150px; height: 150px; background-size: cover; border-radius: 50%;">
+                <a href="https://people.coe.uga.edu/logan-fiorella/" style="position:relative; display:block">Logan Fiorella<strong> (Speaker)</strong> </a>  University of Georgia
+                <img src="../assets/custom_images/FiorellaL_photo.jpg" height="175" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;">
 
                 </div>
 
