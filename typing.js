@@ -1,6 +1,6 @@
 window.onload = function() {
   new Typed('#typing-text', {
-    strings: ["creating externalizations of thought", "communicating knowledge to others", "effecting change across communities"],
+    strings: ["promoting learning", "communicating knowledge", "discovering ideas"],
     typeSpeed: 50,
     // startDelay: 100,
     backDelay: 2000,

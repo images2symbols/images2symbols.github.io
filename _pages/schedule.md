@@ -30,10 +30,9 @@ permalink: /schedule_1/
 
                 <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
-                <h1>machine learning seminar (Zoom)</h1>
+                <h1>artificial intelligence seminar</h1>
                 <br>
                 <br>
-                <p>blurb(?)</p>
                 <p>Date: TBD</p>
                 <p>Zoom info: TBD</p>
 
@@ -87,10 +86,9 @@ permalink: /schedule_1/
 
              <div class = "cellinfo" style="width:45%; float:right;overflow:auto">
 
-                <h1>neuroscience seminar (Zoom)</h1>
+                <h1>neuroscience seminar</h1>
                 <br>
                 <br>
-                <p>blurb(?)</p>
                 <p>Date: TBD</p>
                 <p>Zoom info: TBD</p>
 
@@ -140,10 +138,9 @@ permalink: /schedule_1/
 
             <div class = "cellinfo" style="width:45%; float:left;overflow:auto">
 
-                <h1> developmental science seminar  (Zoom)</h1>
+                <h1> developmental science seminar</h1>
                 <br>
                 <br>
-                <p>blurb(?)</p>
                 <p>Date: TBD</p>
                 <p>Zoom info: TBD</p>
 

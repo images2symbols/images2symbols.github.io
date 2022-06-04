@@ -30,7 +30,7 @@ social: false  # includes social icons at the bottom of the page
 
 <div id="container-header">
 
-<div style="text-align: center;"><p><h3>Drawing is a powerful cognitive technology for...</h3></p></div>
+<div style="text-align: center;"><p><h3>Drawing is a powerful technology for...</h3></p></div>
 <div style="margin-top: -15px; text-align: center;"><p><h3><span id="typing-text"></span></h3></p></div>
 </div>
 

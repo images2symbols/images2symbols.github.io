@@ -7,22 +7,17 @@ permalink: /seminar/
 ---
 
 <div style="text-align: center;">
-<p><h3>Our workshop will host two complementary components:</h3></p>
+<p><h3>There are two ways to attend:</h3></p>
 </div>
 
 <br>
 
 <div>
-<p><h5><b>Before the conference</b></h5></p>
+<p><h5><b>Before CogSci (Virtual)</b></h5></p>
 </div>
 
 <div>
-<p>First, we will host three virtual seminars to introduce each thematic
-perspective (Artificial Intelligence, Neuroscience, and Developmental Science) in advance of the
-Cognitive Science Society Conference 2022. This "flipped" format will be more inclusive,
-by allowing attendees to fully participate from anywhere in the world.
-Additionally, we will record these seminars so that attendees can also view these
-talks asynchronously.</p>
+<p>In advance of CogSci 2022, we will be hosting three virtual seminars, each presenting perspectives from Artificial Intelligence, Neuroscience, and Developmental Science. These talks will be streamed online and for free, allowing attendees to fully experience this component of the workshop from anywhere in the world. These talks will also be recorded and available online for asynchronous viewing.</p>
 
 <p>Recordings will become available <a href = "https://images2symbols.github.io/schedule_1/">here</a>.</p>
 </div>
@@ -30,18 +25,11 @@ talks asynchronously.</p>
 <br>
 
 <div>
-<p><h5><b>At the conference in Toronto</b></h5></p>
+<p><h5><b>At CogSci (In Person)</b></h5></p>
 </div>
 
 <div>
-<p>Second, we will host an in-person poster session and facilitate group discussion of
-issues raised during the thematic seminars on site at the conference in July. These activities
-are inherently active and interactive, and will thus empower in-person attendees to
-capitalize on this time to interact informally with other researchers (rather than attend
-a long series of back-to-back talks). We plan to dedicate the funds allocated to this
-workshop to support early career researchers by awarding two student travel grants and one ‘Best Poster
-Award.‘ Taken together, we believe our strategy will lay a strong foundation for
-further interaction among attendees beyond CogSci2022, and even inspire new multi-disciplinary collaborations.</p>
+<p> At CogSci, we will host a hybrid panel discussion and in-person poster session to facilitate informal interactions with other researchers. Please consider submitting to present in our poster session! There will be two Early Career Researcher Travel Awards and one Best Poster Award. </p>
 
-<p> Stay tuned for more details about our in-person event! A full itinerary will be made available shortly...</p>
+<p> The full schedule of in-person events is coming soon...</p>
 </div>
