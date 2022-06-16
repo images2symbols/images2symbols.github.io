@@ -15,10 +15,10 @@ permalink: /abstracts/
 
 <p>Submissions are welcome from all areas of cognitive science, including psychology, computer science, neuroscience, anthropology, linguistics, & philosophy.</p>
 
-<p><h6><b>Two submission formats:</b></h6></p>
+<p><h6><b>Two submission format options:</b></h6></p>
 
 <ul>
-<li>150-word text-based abstract</li>
+<li>150-word text-based abstract OR</li>
 <li>1-page graphical abstract (primarily using visual display elements to illustrate your question, approach & key findings)</li>
 </ul>
 
