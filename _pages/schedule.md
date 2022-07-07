@@ -34,7 +34,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Monday, July 11</p>
                 <p>Time: 10AM-11:30AM PDT</p>                
-                <p>Zoom info: <a href="https://ucsd.zoom.us/meeting/register/tJEtde-oqj4sH9F5LwqVqk_BE0seb7dCTJvc" style="position:relative; display:block"><strong>Register</strong></a></p>
+                <p>Zoom info: <a href="https://ucsd.zoom.us/meeting/register/tJEtde-oqj4sH9F5LwqVqk_BE0seb7dCTJvc" style="position:relative; display:block">Link to register</a></p>
                 </div>
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
                 <h2>speakers</h2>
