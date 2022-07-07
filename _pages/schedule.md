@@ -71,7 +71,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Tuesday, July 12</p>
                 <p>Time: 7:30AM-9AM PDT</p>
-                <p>Zoom info: <a href="https://ucsd.zoom.us/meeting/register/tJAsce6grz0tGdHar9l3hoiXlCZB7o7Pymoa" style="position:relative; display:block"><strong>Register</strong></a></p></p>
+                <p>Zoom:<a href="https://ucsd.zoom.us/meeting/register/tJAsce6grz0tGdHar9l3hoiXlCZB7o7Pymoa" style="position:relative; display:block">Link to register</a></p>
 
                 </div>
 
@@ -130,7 +130,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Wednesday, July 13</p>
                 <p>Time: 12PM-1:30PM PDT</p>
-                <p>Zoom info: <a href="https://ucsd.zoom.us/meeting/register/tJAudO2gpj8sH9aAMGh5Za_tIVmMSVS_oleK" style="position:relative; display:block"><strong>Register</strong></a></p>
+                <p>Zoom: <a href="https://ucsd.zoom.us/meeting/register/tJAudO2gpj8sH9aAMGh5Za_tIVmMSVS_oleK" style="position:relative; display:block">Link to register</a></p>
 
                 </div>
 
