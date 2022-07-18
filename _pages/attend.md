@@ -34,7 +34,7 @@ permalink: /seminar/
 
 <p> <ul> 
 
-<li>8:30-8:45: Welcome </li>
+<li>8:30-9:00: Welcome </li>
 <li>9:00-10:00: Developmental Science Seminar (pre-recorded)</li>
 <li>10:00-11:00: Artificial Intelligence Seminar (pre-recorded)</li>
 <li>11:00-12:00: Neuroscience Seminar (pre-recorded)</li>
