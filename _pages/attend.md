@@ -39,18 +39,18 @@ permalink: /seminar/
 <li>10:00-11:00: Artificial Intelligence Seminar (pre-recorded)</li>
 <li>11:00-12:00: Neuroscience Seminar (pre-recorded)</li>
 <li>12:00-1:00: BREAK (Lunch)</li>
-<li>1:00-1:20: Opening remarks: Drawing, from images to symbols (Fan)</li>
-<li>1:20-2:20: Panel discussion (Bainbridge, Dillon, Gryaditskaya, Lambon-Ralph, Long) </li>
+<li>1:00-1:20: Opening Remarks: Drawing, from images to symbols (Fan)</li>
+<li>1:20-2:20: Panel Discussion (Bainbridge, Dillon, Gryaditskaya, Lambon-Ralph, Long) </li>
 <li>2:20-2:30: BREAK </li>
-<li>2:30-2:45: Invited talk 1: Sketch understanding by a machine (Gryaditskaya)</li>
-<li>2:45-3:00: Invited talk 2: CLIPasso: Semantically aware object sketching (Vinker)</li>
+<li>2:30-2:45: Invited Talk 1: Sketch understanding by a machine (Gryaditskaya)</li>
+<li>2:45-3:00: Invited Talk 2: CLIPasso: Semantically aware object sketching (Vinker)</li>
 <li>3:00-3:10: BREAK </li>
-<li>3:10-3:20: Contributed talk 1: A Questionnaire to Measure Parental Support for Drawing (Straffon) </li>
-<li>3:20-3:30: Contributed talk 2: Using Natural Language and Program Abstractions to Instill Human Inductive Biases in Machines (Kumar) </li>
-<li>3:30-3:40: Contributed talk 3: Symbol superiority: Why $ is better remembered than "dollar" (Roberts) </li>
-<li>3:40-3:50: Contributed talk 4: Drawing What We Hear: Preattentive and Metaphorically Apt Chordal Glyphs (Lind)</li>
+<li>3:10-3:20: Contributed Talk 1: A Questionnaire to Measure Parental Support for Drawing (Straffon) </li>
+<li>3:20-3:30: Contributed Talk 2: Using Natural Language and Program Abstractions to Instill Human Inductive Biases in Machines (Kumar) </li>
+<li>3:30-3:40: Contributed Talk 3: Symbol superiority: Why $ is better remembered than "dollar" (Roberts) </li>
+<li>3:40-3:50: Contributed Talk 4: Drawing What We Hear: Preattentive and Metaphorically Apt Chordal Glyphs (Lind)</li>
 <li>3:50-4:00: BREAK</li>
-<li>4:00-4:30: Poster session</li>
+<li>4:00-4:30: Poster Session</li>
 <li>5:00-7:00: Happy Hour (TBD location in downtown Toronto)</li>
 
 </ul> </p>
