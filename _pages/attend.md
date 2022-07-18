@@ -30,7 +30,7 @@ permalink: /seminar/
 </div>
 
 <div>
-<p> At CogSci, we will stream recordings of our virtual seminars, host a hybrid panel discussion, and offer an in-person poster session to facilitate informal interactions with other researchers. </p>
+<p> At CogSci, we will stream recordings of our virtual seminars, host a hybrid panel discussion, and offer an in-person poster session to facilitate informal interactions with other researchers. Here is the full schedule of events (all times listed in ET):</p>
 
 <p> <ul> 
 
