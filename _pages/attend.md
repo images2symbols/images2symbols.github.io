@@ -19,7 +19,7 @@ permalink: /seminar/
 <div>
 <p>In advance of CogSci 2022, we will be hosting three virtual seminars, each presenting perspectives from Artificial Intelligence, Neuroscience, and Developmental Science. These talks will be streamed online and for free, allowing attendees to fully experience this component of the workshop from anywhere in the world. These talks will also be recorded and available online for asynchronous viewing.</p>
 
-<p>Lightly edited recordings will be available <a href = "https://images2symbols.github.io/schedule/">here</a> after the workshop.</p>
+<p>Lightly edited recordings will be available <a href = "https://www.youtube.com/playlist?list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C">here</a> after the workshop.</p>
 </div>
 
 <br>
