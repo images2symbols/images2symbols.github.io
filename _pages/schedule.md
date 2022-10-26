@@ -34,7 +34,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Monday, July 11</p>
                 <p>Time: 10AM-11:30AM PDT</p>                
-                <p>Zoom info: <a href="https://ucsd.zoom.us/meeting/register/tJEtde-oqj4sH9F5LwqVqk_BE0seb7dCTJvc" style="position:relative; display:block">Link to register</a></p>
+                <p>Recordings: <a href="https://www.youtube.com/watch?v=0kyJlfSgvYQ&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=1" style="position:relative; display:block">Link to register</a></p>
                 </div>
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
                 <h2>speakers</h2>
@@ -71,7 +71,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Tuesday, July 12</p>
                 <p>Time: 7:30AM-9AM PDT</p>
-                <p>Zoom:<a href="https://ucsd.zoom.us/meeting/register/tJAsce6grz0tGdHar9l3hoiXlCZB7o7Pymoa" style="position:relative; display:block">Link to register</a></p>
+                <p>Recordings:<a href="https://www.youtube.com/watch?v=2G4WNxSRvsE&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=2" style="position:relative; display:block">Link to register</a></p>
 
                 </div>
 
@@ -130,7 +130,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Wednesday, July 13</p>
                 <p>Time: 12PM-1:30PM PDT</p>
-                <p>Zoom: <a href="https://ucsd.zoom.us/meeting/register/tJAudO2gpj8sH9aAMGh5Za_tIVmMSVS_oleK" style="position:relative; display:block">Link to register</a></p>
+                <p>Recordings: <a href="https://www.youtube.com/watch?v=UoBZp4hDY-U&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=3" style="position:relative; display:block">Link to register</a></p>
 
                 </div>
 
