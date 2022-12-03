@@ -34,7 +34,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Monday, July 11</p>
                 <p>Time: 10AM-11:30AM PDT</p>                
-                <p>Recordings: <a href="https://www.youtube.com/watch?v=0kyJlfSgvYQ&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=1" style="position:relative; display:block">Link to register</a></p>
+                <p><a href="https://www.youtube.com/watch?v=0kyJlfSgvYQ&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=1" style="position:relative; display:block">Link to recordings</a></p>
                 </div>
                 <div class = "cellims" style="width:45%;float:right;overflow:auto">
                 <h2>speakers</h2>
@@ -71,7 +71,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Tuesday, July 12</p>
                 <p>Time: 7:30AM-9AM PDT</p>
-                <p>Recordings:<a href="https://www.youtube.com/watch?v=2G4WNxSRvsE&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=2" style="position:relative; display:block">Link to register</a></p>
+                <p><a href="https://www.youtube.com/watch?v=2G4WNxSRvsE&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=2" style="position:relative; display:block">Link to recordings</a></p>
 
                 </div>
 
@@ -130,7 +130,7 @@ permalink: /schedule/
                 <br>
                 <p>Date: Wednesday, July 13</p>
                 <p>Time: 12PM-1:30PM PDT</p>
-                <p>Recordings: <a href="https://www.youtube.com/watch?v=UoBZp4hDY-U&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=3" style="position:relative; display:block">Link to register</a></p>
+                <p><a href="https://www.youtube.com/watch?v=UoBZp4hDY-U&list=PL2_Vc3j_d7HPHojt9q2pP8A3AM_pIGy7C&index=3" style="position:relative; display:block">Link to recordings</a></p>
 
                 </div>
 
